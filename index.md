@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Agile.al
 
-You can use the [editor on GitHub](https://github.com/tensiondriven/agile.al/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## The Manifesto for Agile Software Development is based on twelve principles:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Customer satisfaction by early and continuous delivery of valuable software.
+- Welcome changing requirements, even in late development.
+- Deliver working software frequently (weeks rather than months)
+- Close, daily cooperation between business people and developers
+- Projects are built around motivated individuals, who should be trusted
+- Face-to-face conversation is the best form of communication (co-location)
+- Working software is the primary measure of progress
+- Sustainable development, able to maintain a constant pace
+- Continuous attention to technical excellence and good design
+- Simplicity—the art of maximizing the amount of work not done—is essential
+- Best architectures, requirements, and designs emerge from self-organizing teams
+- Regularly, the team reflects on how to become more effective, and adjusts accordingly
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tensiondriven/agile.al/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
